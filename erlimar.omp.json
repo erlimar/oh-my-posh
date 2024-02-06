@@ -8,7 +8,7 @@
           "type": "os",
           "style": "plain",
           "foreground": "#26C6DA",
-          "template": "{{.Icon}}{{ if .WSL }} wsl{{ end }}",
+          "template": "{{.Icon}}{{ if .WSL }} wsl{{ end }} ",
           "properties": {
             "macos": "mac"
           }
