@@ -1,9 +1,11 @@
 Minha configuração Oh My Posh
 =============================
 
+1. Instale *Oh My Posh*
+
 > ℹ️  Saiba mais sobre Oh My Posh em https://ohmyposh.dev
 
-Após instalar o *Oh My Posh*, altere seu arquivo de configuração adicionando a seguinte linha:
+2. Altere seu arquivo de perfil do Shell para adicionar a configuração personalizada:
 
 ## No PowerShell:
 ```PowerShell
