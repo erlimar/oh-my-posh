@@ -5,6 +5,11 @@
       "alignment": "left",
       "segments": [
         {
+          "foreground": "#55B9C4",
+          "style": "plain",
+          "template": "\ue70f"
+        },
+        {
           "foreground": "#BF616A",
           "style": "plain",
           "template": "{{ .UserName }}@{{ .HostName }} ",
